@@ -9,7 +9,7 @@
         },
         "name": "Rhode Island Aerial Photo (Fall 2021)",
         "url": "https://maps.edc.uri.edu/rigis/rest/services/IMG/RI_202108_RGB_3in_web/ImageServer/exportImage?f=image&format=jpgpng&imageSR={wkid}&bboxSR={wkid}&bbox={bbox}&size={width},{height}",
-        "max_zoom": 19,
+        "max_zoom": 21,
         "license_url": "https://wiki.openstreetmap.org/wiki/Rhode_Island/RIGIS_Aerial_Photo",
         "country_code": "US",
         "type": "wms",

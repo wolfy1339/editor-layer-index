@@ -16,7 +16,7 @@
         "type": "tms",
         "start_date": "2022-05",
         "end_date": "2022-09",
-        "category": "photo",
+        "category": "historicphoto",
         "privacy_policy_url": "https://www.oregon.gov/pages/terms-and-conditions.aspx",
         "valid-georeference": true
     },
